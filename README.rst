@@ -1,10 +1,10 @@
 LeakDB
 ======
-.. image:: https://pypip.in/download/LeakDB/badge.png
+.. image:: https://img.shields.io/pypi/dm/LeakDB.svg
     :target: https://pypi.python.org/pypi/LeakDB/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/LeakDB/badge.png
+.. image:: https://img.shields.io/pypi/v/LeakDB.svg
     :target: https://pypi.python.org/pypi/LeakDB/
     :alt: Latest Version
 
